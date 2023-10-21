@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\bin\Debug\net7.0\C#_solutions.exe
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\bin\Debug\net7.0\C#_solutions.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\bin\Debug\net7.0\C#_solutions.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\bin\Debug\net7.0\C#_solutions.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\bin\Debug\net7.0\C#_solutions.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\obj\Debug\net7.0\C#_solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\obj\Debug\net7.0\C#_solutions.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\obj\Debug\net7.0\C#_solutions.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\obj\Debug\net7.0\C#_solutions.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\obj\Debug\net7.0\C#_solutions.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\obj\Debug\net7.0\refint\C#_solutions.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\obj\Debug\net7.0\C#_solutions.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\obj\Debug\net7.0\C#_solutions.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_solutions\obj\Debug\net7.0\ref\C#_solutions.dll
