@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\bin\Debug\net7.0\IsPangram.exe
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\bin\Debug\net7.0\IsPangram.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\bin\Debug\net7.0\IsPangram.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\bin\Debug\net7.0\IsPangram.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\bin\Debug\net7.0\IsPangram.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\obj\Debug\net7.0\IsPangram.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\obj\Debug\net7.0\IsPangram.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\obj\Debug\net7.0\IsPangram.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\obj\Debug\net7.0\IsPangram.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\obj\Debug\net7.0\IsPangram.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\obj\Debug\net7.0\refint\IsPangram.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\obj\Debug\net7.0\IsPangram.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\obj\Debug\net7.0\IsPangram.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#Solutions\IsPangram\obj\Debug\net7.0\ref\IsPangram.dll
