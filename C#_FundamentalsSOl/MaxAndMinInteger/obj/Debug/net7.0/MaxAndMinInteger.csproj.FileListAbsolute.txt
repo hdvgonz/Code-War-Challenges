@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\obj\Debug\net7.0\MaxAndMinInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\obj\Debug\net7.0\MaxAndMinInteger.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\obj\Debug\net7.0\MaxAndMinInteger.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\obj\Debug\net7.0\MaxAndMinInteger.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\bin\Debug\net7.0\MaxAndMinInteger.exe
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\bin\Debug\net7.0\MaxAndMinInteger.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\bin\Debug\net7.0\MaxAndMinInteger.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\bin\Debug\net7.0\MaxAndMinInteger.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\bin\Debug\net7.0\MaxAndMinInteger.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\obj\Debug\net7.0\MaxAndMinInteger.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\obj\Debug\net7.0\refint\MaxAndMinInteger.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\obj\Debug\net7.0\MaxAndMinInteger.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\obj\Debug\net7.0\MaxAndMinInteger.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\MaxAndMinInteger\obj\Debug\net7.0\ref\MaxAndMinInteger.dll

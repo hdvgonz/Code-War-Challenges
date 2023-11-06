@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\bin\Debug\net7.0\ReversedSequence.exe
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\bin\Debug\net7.0\ReversedSequence.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\bin\Debug\net7.0\ReversedSequence.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\bin\Debug\net7.0\ReversedSequence.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\bin\Debug\net7.0\ReversedSequence.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\obj\Debug\net7.0\ReversedSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\obj\Debug\net7.0\ReversedSequence.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\obj\Debug\net7.0\ReversedSequence.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\obj\Debug\net7.0\ReversedSequence.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\obj\Debug\net7.0\ReversedSequence.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\obj\Debug\net7.0\refint\ReversedSequence.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\obj\Debug\net7.0\ReversedSequence.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\obj\Debug\net7.0\ReversedSequence.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ReversedSequence\obj\Debug\net7.0\ref\ReversedSequence.dll

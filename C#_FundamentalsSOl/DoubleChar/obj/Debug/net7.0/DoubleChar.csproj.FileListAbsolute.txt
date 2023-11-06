@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\bin\Debug\net7.0\DoubleChar.exe
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\bin\Debug\net7.0\DoubleChar.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\bin\Debug\net7.0\DoubleChar.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\bin\Debug\net7.0\DoubleChar.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\bin\Debug\net7.0\DoubleChar.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\obj\Debug\net7.0\DoubleChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\obj\Debug\net7.0\DoubleChar.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\obj\Debug\net7.0\DoubleChar.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\obj\Debug\net7.0\DoubleChar.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\obj\Debug\net7.0\DoubleChar.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\obj\Debug\net7.0\refint\DoubleChar.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\obj\Debug\net7.0\DoubleChar.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\obj\Debug\net7.0\DoubleChar.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\DoubleChar\obj\Debug\net7.0\ref\DoubleChar.dll

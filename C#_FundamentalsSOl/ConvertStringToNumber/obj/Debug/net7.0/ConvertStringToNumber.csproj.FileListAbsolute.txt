@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\bin\Debug\net7.0\ConvertStringToNumber.exe
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\bin\Debug\net7.0\ConvertStringToNumber.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\bin\Debug\net7.0\ConvertStringToNumber.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\bin\Debug\net7.0\ConvertStringToNumber.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\bin\Debug\net7.0\ConvertStringToNumber.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\obj\Debug\net7.0\ConvertStringToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\obj\Debug\net7.0\ConvertStringToNumber.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\obj\Debug\net7.0\ConvertStringToNumber.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\obj\Debug\net7.0\ConvertStringToNumber.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\obj\Debug\net7.0\ConvertStringToNumber.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\obj\Debug\net7.0\refint\ConvertStringToNumber.dll
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\obj\Debug\net7.0\ConvertStringToNumber.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\obj\Debug\net7.0\ConvertStringToNumber.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\CodeWars\C#_FundamentalsSOl\ConvertStringToNumber\obj\Debug\net7.0\ref\ConvertStringToNumber.dll
